@@ -1,0 +1,12 @@
+# Game scores (personal data)
+wordle_scores.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
